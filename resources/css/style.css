@@ -27,3 +27,19 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+
+#header2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+#footer {
+  background-color: dimgray;
+  text-align: left;
+}
+
+#copyright {
+  font-size: 11px;
+}
